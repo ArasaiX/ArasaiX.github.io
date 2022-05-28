@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin:0px;
+	padding:0px;
+	letter-spacing:8px;
+	font-smooth: never;
+	-webkit-font-smoothing: none;
+	
+	
+	}
+	
+body {
+	background-image:url();
+	background-color:#342830;
+	color:#ff35b2;	
+
+	
+	}
+
+@font-face
+{
+    font-family: "Test1";
+    src: url(/fuentes/BronsonBlack-BWP1B.ttf) format("truetype"),
+        url(/fuentes/BronsonBlack-BWP1B.woff) format("woff");
+    font-style: normal;
+    font-weight: 700;
+    color: #DE118EFF;
+    
+	
+}
+
+@font-face
+{
+    font-family: "Test2";
+    src: url(/fuentes/BronsonBlack-BWP1B.ttf) format("truetype"),
+        url(/fuentes/BronsonBlack-BWP1B.woff) format("woff");
+    font-style: normal;
+    font-weight: 1000;
+    
+	
+}
+
+.title {
+	
+	background-color:black;
+	width:800px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+	box-shadow:black 0px 5px 10px;
+	text-align:center;
+	padding-top:40px;
+    
+	
+	}
+	
+h1 {
+	font-family: 'Candara', Courier, monospace;
+    color: #DE118EFF;
+	
+	}
+	
+h3 {
+	font-family: "Test1";
+	
+	}
+	
+.article {
+	width:800px;
+	background-color:#000000E0;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+	box-shadow:black 0px 5px 10px;
+	text-align:center;
+	letter-spacing:8px;
+	font-size:13px;
+	padding-top:20px;
+
+	
+	}
+	
+.article p {
+	margin:20px;
+	font-size:13px;
+
+	
+	}
+
+.text {
+    width:800px;
+    background-color:black;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:40px;
+    box-shadow:black 0px 5px 10px;
+    text-align:center;
+    letter-spacing:8px;
+    font-family: "Test1";
+    font-size:13px;
+    padding-top:20px;
+
+    
+    }
+	
+#footer {
+	margin-top:70px;
+	color:#d2738a;
+	border:0px;
+	text-align:center;
+	letter-spacing:8px;
+	font-size:9px;
+	margin-bottom:20px;
+	}
+	
+#footer span {
+	background-color:black;
+	padding:3px;
+	
+	
+	}
+
+#footer a {
+	text-decoration:underline;	
+	}
