@@ -21,9 +21,9 @@ body {
 
 @font-face
 {
-    font-family: "Test1";
-    src: url(/fuentes/BronsonBlack-BWP1B.ttf) format("truetype"),
-        url(/fuentes/BronsonBlack-BWP1B.woff) format("woff");
+    font-family: "Bronson";
+    src: url(../fuentes/BronsonBlack-BWP1B.ttf) format("truetype"),
+        url(../fuentes/BronsonBlack-BWP1B.woff) format("woff");
     font-style: normal;
     font-weight: 700;
     color: #DE118EFF;
@@ -58,13 +58,13 @@ body {
 	}
 	
 h1 {
-	font-family: 'Candara', Courier, monospace;
+	font-family: "Bronson";
     color: #DE118EFF;
 	
 	}
 	
 h3 {
-	font-family: "Test1";
+	font-family: "Bronson";
 	
 	}
 	
@@ -92,18 +92,20 @@ h3 {
 	}
 
 .text {
+	
     width:800px;
-    background-color:black;
+    background-color:rgb(174, 10, 128);
     height:auto;
     margin-left:auto;
     margin-right:auto;
-    margin-top:40px;
+    margin-top:auto;
     box-shadow:black 0px 5px 10px;
     text-align:center;
+	text
     letter-spacing:8px;
     font-family: "Test1";
     font-size:13px;
-    padding-top:20px;
+    padding-top:auto;
 
     
     }
