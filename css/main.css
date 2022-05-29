@@ -94,18 +94,17 @@ h3 {
 .text {
 	
     width:800px;
-    background-color:rgb(174, 10, 128);
-    height:auto;
-    margin-left:auto;
-    margin-right:auto;
-    margin-top:auto;
-    box-shadow:black 0px 5px 10px;
-    text-align:center;
-	text
-    letter-spacing:8px;
-    font-family: "Test1";
-    font-size:13px;
-    padding-top:auto;
+	background-color:#e3009fe0;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:auto;
+	box-shadow:black 0px 5px 10px;
+	text-align:center;
+	letter-spacing:8px;
+	font-size:13px;
+	padding-top:auto;
+	
 
     
     }
