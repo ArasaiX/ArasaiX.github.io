@@ -101,10 +101,11 @@ h3 {
 	margin-top:70px;
 	color:#d2738a;
 	border:0px;
-	text-align:center;
+	text: align 560px;;
 	letter-spacing:8px;
 	font-size:9px;
-	margin-bottom:20px;
+	margin-bottom:0px;
+	margin-left: 560px;
 	}
 	
 #footer span {
@@ -195,8 +196,10 @@ h3 {
 				border:0px;
 				text-align:center;
 				letter-spacing:8px;
-				font-size:3px;
+				font-size:1px;
 				margin-bottom:20px;
+				margin-right: 20px;
+				margin-left: 220px;
 				}
 	 }
 
