@@ -97,27 +97,30 @@ h3 {
     
     }
 	
-#footer {
-	margin-top:70px;
-	color:#d2738a;
-	border:0px;
-	text: align 560px;;
-	letter-spacing:8px;
-	font-size:9px;
+#footer1 {
+	text-align: center;
+	color: #DE118EFF;
+	font-family: 'Courier New', Courier, monospace;
+	font-size:15px;
 	margin-bottom:0px;
-	margin-left: 560px;
-	}
-	
-#footer span {
-	background-color:black;
-	padding:3px;
-	
+	margin-left: auto;
+	margin-right: auto;
 	
 	}
 
-#footer a {
-	text-decoration:underline;	
+#footer2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
 	}
+
+#footer3 {
+	text-align: center;
+	color: #DE118EFF;
+	font-family: 'Courier New', Courier, monospace;
+	}
+	
+
 
 
 
@@ -190,7 +193,7 @@ h3 {
 			
 			}
 
-			#footer {
+			.footer {
 				margin-top:70px;
 				color:#d2738a;
 				border:0px;
