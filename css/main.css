@@ -53,6 +53,7 @@ h1 {
 	
 h3 {
 	font-family: "Bronson";
+	text-align: center;
 	
 	}
 	
@@ -82,16 +83,18 @@ h3 {
 .text {
 	
     width:800px;
-	background-color:#e3009fe0;
+	background-color:hotpink;
+	color: black;
 	height:auto;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:auto;
 	box-shadow:black 0px 5px 10px;
-	text-align:center;
-	letter-spacing:8px;
-	font-size:13px;
+	letter-spacing:5px;
+	font-size:15px;
 	padding-top:auto;
+	padding-left: 50pt;
+	padding-right: 50pt;
 	
 
     
@@ -203,6 +206,13 @@ h3 {
 				margin-bottom:20px;
 				margin-right: 20px;
 				margin-left: 220px;
+				text-align: center;
 				}
+			
+			#footer1 {
+				width: 700px;
+				margin-left: auto;
+				margin-right: auto;
+			}
 	 }
 
